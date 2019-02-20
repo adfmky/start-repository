@@ -1,2 +1,2 @@
 # start-repository
-the repository for the first time
+the brunch for the first time
